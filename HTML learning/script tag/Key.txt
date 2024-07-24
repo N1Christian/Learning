@@ -1,0 +1,12 @@
+From DOM tutorial
+
+
+<script src="script.js" defer></script>
+
+The defer attribute in the <script> tag is used to indicate that the script should be executed after the document has been parsed, but before the DOMContentLoaded event is fired.
+
+Here's a more detailed explanation of what the defer attribute does:
+
+Parsing the HTML document: When the browser encounters a <script> tag, it typically pauses the parsing of the HTML document to fetch and execute the script. This can slow down the initial rendering of the page.
+Executing the script: With the defer attribute, the browser will fetch the script in parallel with the HTML parsing, but it will not execute the script until the HTML parsing is complete.
+Executing the script in the order they appear: Scripts with the defer attribute are executed in the order they appear in the HTML document, ensuring that dependencies between the scripts are maintained.

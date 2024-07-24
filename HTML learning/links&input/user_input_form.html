@@ -1,0 +1,24 @@
+<html>
+<head>
+    <script type="text/javascript">
+        function display() {
+            var display_mesg = document.getElementById("display");
+            var input_value = document.getElementById("input");
+
+            display_mesg.innerHTML = "you have entered " + input_value.value;
+        }
+    </script>
+</head>
+
+<body>
+    <p id="display"></p>
+    <form>
+    Enter a value:<input type="text"  id="input"/> </br>
+    <input type = "button" value = "click" onclick="display();"/>
+    </form> 
+</body>
+
+</html>
+
+<!-- demo of document.getElementById, .innerHTML, more in button-->
+<!-- Key: DOM -->
