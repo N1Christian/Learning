@@ -1,0 +1,11 @@
+Pending to watch:
+
+Understanding Authentication in Node.js - Sessions and Cookies - Web Development Concepts Explained
+https://www.youtube.com/watch?v=TDe7DRYK8vU
+
+express session in node js
+
+
+Good:
+Backend web development - a complete overview
+No-Nonsense .. Engineering Roadmap
