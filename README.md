@@ -1,1 +1,1 @@
-I edited it !!
+This repo is about the learning of Github & Gitbash
