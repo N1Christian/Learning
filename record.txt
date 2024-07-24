@@ -1,11 +1,34 @@
 Pending to watch:
 
+(24/7/2024)
 Understanding Authentication in Node.js - Sessions and Cookies - Web Development Concepts Explained
 https://www.youtube.com/watch?v=TDe7DRYK8vU
 
-express session in node js
+Nodejs crash course
+
+Postman tutorial
 
 
-Good:
+################################################
+Concepts waiting to learn:
+express session in node js (module for setting login)
+
+JS DOM, traversal
+
+
+
+################################################
+Good vid:
 Backend web development - a complete overview
 No-Nonsense .. Engineering Roadmap
+
+
+################################################
+Good:
+
+Over 1m youtuber:
+Web Dev Simplified
+Bro Code
+
+
+Below 1m youtuber:
