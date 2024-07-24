@@ -1,0 +1,6 @@
+you need a special way to open ejs files.
+all ejs files should be placed in a "views" folder
+
+ans: use .render on the server side
+
+Important!!! You can only pass objects {...} or {... : ...} from .js file to .ejs file

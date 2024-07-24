@@ -1,0 +1,11 @@
+<!--Key: pass the variable from Js to ejs and then write
+JS condition code in ejs inside script tag or <% %>>-->
+<ul>
+    <% for (var person of people) { %>
+        <% if (person.name == 'dave') { %>
+            <li>This is definitely <%= person.name %>!!!</li>
+            <% } else { %>
+            <li>This is not <%= person.name %></li>
+            <% } %>
+    <% } %>
+</ul>
