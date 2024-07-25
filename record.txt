@@ -32,3 +32,19 @@ Bro Code
 
 
 Below 1m youtuber:
+
+################################################
+Tools:
+Bbox finder: a tool to find lng, lat 
+diffchecker
+color code picker
+
+
+
+################################################
+Vid ideas:
+https://www.youtube.com/watch?v=KgxKoAgdrLQ
+How-to-videos on my webpage
+
+Webpage ideas:
+https://docs.mapbox.com/help/how-to-videos/
