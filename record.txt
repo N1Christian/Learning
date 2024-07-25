@@ -35,7 +35,7 @@ Below 1m youtuber:
 
 ################################################
 Tools:
-Bbox finder: a tool to find lng, lat 
+Location Helper | Mapbox Spatial Developer Tools: a tool to find lng, lat 
 diffchecker
 color code picker
 
