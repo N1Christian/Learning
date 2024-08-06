@@ -22,6 +22,8 @@ Good vid:
 Backend web development - a complete overview
 No-Nonsense .. Engineering Roadmap
 
+How to create a CSS navigation bar in 6 minutes! 
+https://www.youtube.com/watch?v=f3uCSh6LIY0
 
 ################################################
 Good:
@@ -45,6 +47,9 @@ color code picker
 Vid ideas:
 https://www.youtube.com/watch?v=KgxKoAgdrLQ
 How-to-videos on my webpage
+
+https://www.youtube.com/watch?v=4Wa5DivljOM
+Why you're addicted to cloud computing (no face informative vid)
 
 Webpage ideas:
 https://docs.mapbox.com/help/how-to-videos/
