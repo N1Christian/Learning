@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first line</title>
+<style>
+.type_label2 {
+    
+
+    display: grid;
+    white-space: nowrap;
+    text-align: center;
+    text-size-adjust: 100%;    
+    font-size: 6em;
+    vertical-align: middle;
+    text-align: center;    
+    border: none;
+    background-image: none;
+    
+    width: 58%;
+    height: 12%;
+    position: absolute;
+    left: 75%;
+    top: 56%;
+    transform: translate(-100%, -50%);
+    align-items: center;
+
+    z-index: -1;
+}
+
+
+.touch_image{
+    transform: scale(1);
+    align-self: center;
+    position: absolute;
+}
+
+#block{
+    background:yellow;
+    position: absolute;
+    height:20px;
+    width:70px;
+    right: 190px;
+    left: 5px;
+    top: 5px; 
+    border: 1px solid black; /* Added border property */
+    z-index: -1;
+    display:none;
+}
+
+canvas{
+    display:inline;
+    z-index: 4;
+}
+
+</style>
+
+</head>
+<body>
+    <label class="type_label2"><img id="touch_image" class="touch_image" src="images/L1-1_resize.png"></label> 
+
+    <canvas></canvas>
+    <label id="block"></label>
+
+    <script src="./script.js"></script>
+</body>
+</html>

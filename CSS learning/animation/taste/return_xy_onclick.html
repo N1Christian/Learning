@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Click Coordinates</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f0f0;
+        }
+
+        #click-info {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="click-info">
+        <h2>Click anywhere on the page</h2>
+        <p id="click-coordinates"></p>
+    </div>
+
+    <script>
+        document.addEventListener('click', (event) => {
+            console.log(event)
+            const clickX = event.clientX;
+            const clickY = event.clientY;
+            const coordinatesElement = document.getElementById('click-coordinates');
+            coordinatesElement.textContent = `Click coordinates: (${clickX}, ${clickY})`;
+        });
+    
+        ctx.beginPath();
+    </script>
+</body>
+</html>

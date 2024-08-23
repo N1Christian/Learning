@@ -1,0 +1,9 @@
+7/8/2024
+
+always add ' ' in querySelector otherwise the program may try to access it before it is created and crash
+
+13/8/2024
+
+remove the arrowheads of details+summary HTML tags
+
+ans:  use summary::-webkit-details-marker to target it and turn its display to none
