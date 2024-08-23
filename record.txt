@@ -25,6 +25,8 @@ No-Nonsense .. Engineering Roadmap
 How to create a CSS navigation bar in 6 minutes! 
 https://www.youtube.com/watch?v=f3uCSh6LIY0
 
+2 HTML Elements I Never Used!? (Details & Summary)
+https://www.youtube.com/watch?v=PQtpZZQU0u0
 ################################################
 Good:
 
@@ -34,6 +36,11 @@ Bro Code
 
 
 Below 1m youtuber:
+Repeat his works
+DevFunda 
+https://www.youtube.com/watch?v=fvAjS7WKVr8
+
+Coding2GO (buy his courses?)
 
 ################################################
 Tools:
